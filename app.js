@@ -1,3 +1,7 @@
+function substract(a, b) {
+	return a - b;
+}
+
 // comments
 function test() {
     var xx = 'abcdefg';
@@ -14,4 +18,8 @@ function test2() {
     var test2 = 'this is test2';
 
     this.test2 = test2;
+}
+
+function add(a, b) {
+	return a + b;
 }
