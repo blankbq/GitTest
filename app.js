@@ -1,5 +1,5 @@
 function substract(a, b) {
-	return a - b;
+    return a - b;
 }
 
 // comments
@@ -7,7 +7,7 @@ function test() {
     var xx = 'abcdefg';
 
     this.xx = xx;
-        }
+}
 
 console.log('hello world');
 
